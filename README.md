@@ -56,7 +56,7 @@ We do not have the data between 2018 to 2021. Especially with the current climat
   * Consistent campaign updates, e.g. "25% funded" that will give backers confidence
   * Transparency of updates even after hitting goals, e.g. Updates on any change of plan or any potential delays in production
 
-Making the Call:
+#### 6. Making the Call:
 The "Proper" Conclusion is indicated below on [Results](#results)
 
 ### Analysis of Outcomes Based on Launch Date
