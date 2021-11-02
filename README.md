@@ -40,7 +40,7 @@ We do not have the data between 2018 to 2021. Especially with the current climat
 
 
 #### 5. Assemble & Clean the Data:
-* Excel formatting & formulas
+* Excel formatting, functions & formulas
 
 
 #### 6. Analyse for Trends:
@@ -92,7 +92,7 @@ Funding goals between *$45,000 to $49,999 has the highest failed* rate at *0% ca
 
 There are no cancelled plays campaigns.
 
-While the chart above may show that campaigns with funding goals below $5000 have the highest percentage of being successfully funded, campaigns goals between $35,000 to $44,999 only have a total of 9 campaigns with 6 successful thus giving it a success rate of 67%. This dataset is too small to ensure that Louise's campaign will also have 67% chance of reaching her funding goal if she was to launch a similar play campaign with funding goals between $35,000 to $44,999.
+While the chart above may show that campaigns with funding goals below $1000 have the highest percentage of being successfully funded, campaigns goals between $35,000 to $44,999 only have a total of 9 campaigns with 6 successful thus giving it a success rate of 67%. This dataset is too small to ensure that Louise's campaign will also have 67% chance of reaching her funding goal if she was to launch a similar play campaign with funding goals between $35,000 to $44,999.
 
 ## Challenges
 
@@ -140,7 +140,7 @@ Therefore _**April, September**_ and _**November**_ can be taken into considerat
 ![All Category Outcomes Outcomes Based on Goals](resources/All_Cat_Outcomes_vs_Goals.png)
 
 We want to examine outcomes based on goals in Kickstarter funding for all categories. The chart above shows all categories outcome based on goals.
-We start by examining the trend lines for both successful & failed campaigns and it has the same trends as sub-category, Plays. Therefore we can determine that _**across all categories, campaigns with lower funding goals and very high funding goals have a higher success rate.**_
+We start by examining the trend lines for both successful & failed campaigns and it has the same trends as sub-category, Plays. Therefore we can determine that _**across all categories, campaigns with lower funding goals and moderately high funding goals have a higher success rate.**_
 
 With this chart, we can see that campaigns with the most likely chance of reaching their goals are campaigns below $1000; with 76% campaigns reaching their funding goals.
 Second highest campaigns to reach their goals are campaigns between $1000 to $4999; with 66% campaigns reaching their funding goals.
