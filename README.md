@@ -20,7 +20,7 @@ The different campaigns can be seen from 2 perspectives, either from the Main / 
 Louise did not specify which country she will be producing the play in. In the first analysis, she has asked for both data from USA and Great Britain so going by this assumption, we will assume she might be interested in the analysis for both countries.
 
 #### 2. Identify the Datasource
-As Louise was only fundraising from Kickstarter, our dataset which is directly culled from Kickstarter is a good dataset. However, a considerable time has elapsed between her first request for analysis which has given her a high success rate and present.
+As Louise was only fundraising from Kickstarter, our dataset which is directly culled from Kickstarter is a good dataset. However, a considerable time has elapsed since her first request for analysis which has given her a high success rate.
 We do not have the data between 2018 to 2021. Especially with the current climate of Covid-19 global pandemic, where social events with big crowds are not permitted, our second analysis using the older dataset will not give Louise an accurate analysis for her to take further actions with Kickstarter today. What we presented below must be considered as informational pre-pandemic snapshot of Kickstarter analysis.
 
 #### 3. Define Strategy & Metrics
