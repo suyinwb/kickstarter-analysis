@@ -151,8 +151,21 @@ Funding goals above $50,000 has the highest failed rate at 58% and cancelled rat
 
 While Plays campaigns do not have any cancelled campaigns, other categories have in general a less than 20% cancelled rate. This means that _**playwright who launches their Kickstarter campaigns are serious about their projects**_.
 
-#### Analysis of All Category Outcomes Based on Goals
+#### Analysis of Category Outcomes
 
 ![Global Parent Category Outcome](resources/Global_Parent_Category_Outcomes.png)
+
+This chart shows outcomes for all parent category globally.
+
 ![USA Parent Category Outcome](resources/USA_Parent_Category_Outcomes.png)
+
+This chart shows outcomes for all parent category in USA.
+
 ![Great Britain Parent Category Outcome](resources/GB_Parent_Category_Outcome.png)
+
+This chart shows outcomes for all parent category in Great Britain.
+
+
+From the 3 charts above, Theatre category has the most launched campaigns and yield high success rate with campaigns reaching their funding goals. This pattern persist with the global chart, USA chart and Great Britain chart. Theatre is also one of the few categories to have campaigns that have gone live. This shows that pledgers have a higher confidence with Kickstarter's Theatre campaigns and are most likely to pledge in this category.
+
+While Louise will have many competitions in Theatre campaigns, she will also be very likely to achieve her funding goals for her play with the global pledgers especially pledgers from Great Britain. 
