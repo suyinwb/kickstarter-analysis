@@ -33,17 +33,17 @@ We do not have the data between 2018 to 2021. Especially with the current climat
 
 
 #### 1. Data Retrieval Plan:
-        * Use Kickstarter dataset in Excel
+* Use Kickstarter dataset in Excel
 
 
 #### 1. Assemble & Clean the Data:
-        * Excel formatting & formulas
+* Excel formatting & formulas
 
 
 #### 1. Analyse for Trends:
-  1. Category & Sub-Category
-  1. Goals
-  1. Launch Dates
+1. Category & Sub-Category
+1. Goals
+1. Launch Dates
 
 
 #### 5. Acknowledging Limitations:
