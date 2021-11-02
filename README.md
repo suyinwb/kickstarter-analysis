@@ -50,7 +50,7 @@ We do not have the data between 2018 to 2021. Especially with the current climat
 
 
 #### 7. Acknowledging Limitations:
-1. Dataset is not up-to-date.
+1. Dataset is not up-to-date. We do not have data from 2019 to 2021. These are also the years when Covid-19 happened.
 1. Other marketing elements in a campaign:
   * Is this what the target market really wants?
   * Quality of marketing copy writing & campaign video
@@ -113,7 +113,7 @@ If Louise has funding goals above $50,000; it is better if she breaks them down 
 
 
 - What are some limitations of this dataset?
-The dataset only shows the outcomes of all campaigns without taking into consideration the quality of the campaigns as listed in [Analysis & Challenges -> Acknowledging Limitations](#7-acknowledging-limitations).
+The dataset only shows the outcomes of all campaigns without taking into consideration the **quality** of the campaigns as listed in [Analysis & Challenges -> Acknowledging Limitations](#7-acknowledging-limitations).
 
 
 - What are some other possible tables and/or graphs that we could create?
@@ -124,6 +124,6 @@ The dataset only shows the outcomes of all campaigns without taking into conside
 
 With this table, we can see that even though **May** is still the best month to launch a campaign at **66.86%** success rate, the other months have campaign success rates between 49% to 63%.
 When we include this into our consideration, it goes to show that Theatre campaigns launches for the months of:
-**April, May, June, July, September** and **November** have **60%** & above success rates.
+_**April, May, June, July, September**_ and _**November**_ have **60%** & above success rates.
 
-Therefore **April, September** and **November** can be taken into consideration as secondary launch months if Louise had missed the window between May to July.
+Therefore _**April, September**_ and _**November**_ can be taken into consideration as secondary launch months if Louise had missed the window between May to July.
