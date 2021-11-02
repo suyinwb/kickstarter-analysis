@@ -118,7 +118,7 @@ Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-go
 
 The next tier of funding goals of _**$5000 and below**_ have a better chance of achieving their target at _**73%**_ and more.
 
-If Louise has large funding goals; she would need to break them down into a few campaigns with funding goals of _**$1000**_, _**$5000**_ or between _**$10,000 to $15,000**_ in order to yield higher success rate of her campaigns reaching their funding goals. 
+If Louise has large funding goals; she would need to break them down into a few campaigns with funding goals of _**$1000**_, _**$5000**_ or between _**$10,000 to $15,000**_ in order to yield higher success rate of her campaigns reaching their funding goals.
 
 
 3. What are some limitations of this dataset?
@@ -169,4 +169,4 @@ This chart shows outcomes for all parent category in Great Britain.
 
 From the 3 charts above, Theatre category has the most launched campaigns and yield high success rate with campaigns reaching their funding goals. This pattern is _**consistent**_ with the global chart, USA chart and Great Britain chart. Theatre is also one of the few categories to have campaigns that have gone live. This shows that pledgers have a _**higher confidence**_ with Kickstarter's Theatre campaigns and are most likely to pledge in this category.
 
-While Louise will have many competitions in Theatre campaigns, she will also be very likely to achieve her funding goals for her play with if she is launching her Theatre campaign from Great Britain.
+While Louise will have many competitions in Theatre campaigns, she will also be very likely to achieve her play's funding goals if she launches her Theatre campaign from Great Britain.
