@@ -140,7 +140,7 @@ Therefore _**April, September**_ and _**November**_ can be taken into considerat
 ![All Category Outcomes Outcomes Based on Goals](resources/All_Cat_Outcomes_vs_Goals.png)
 
 We want to examine outcomes based on goals in Kickstarter funding for all categories. The chart above shows all categories outcome based on goals.
-We start by examining the trend lines for both successful & failed campaigns and it has the same trends as sub-category, Plays. Therefore we can determine that across all categories, campaigns with lower funding goals and very high funding goals have a higher success rate.
+We start by examining the trend lines for both successful & failed campaigns and it has the same trends as sub-category, Plays. Therefore we can determine that _**across all categories, campaigns with lower funding goals and very high funding goals have a higher success rate.**_
 
 With this chart, we can see that campaigns with the most likely chance of reaching their goals are campaigns below $1000; with 76% campaigns reaching their funding goals.
 Second highest campaigns to reach their goals are campaigns between $1000 to $4999; with 66% campaigns reaching their funding goals.
@@ -165,7 +165,6 @@ This chart shows outcomes for all parent category in USA.
 
 This chart shows outcomes for all parent category in Great Britain.
 
+From the 3 charts above, Theatre category has the most launched campaigns and yield high success rate with campaigns reaching their funding goals. This pattern is _**consistent**_ with the global chart, USA chart and Great Britain chart. Theatre is also one of the few categories to have campaigns that have gone live. This shows that pledgers have a _**higher confidence**_ with Kickstarter's Theatre campaigns and are most likely to pledge in this category.
 
-From the 3 charts above, Theatre category has the most launched campaigns and yield high success rate with campaigns reaching their funding goals. This pattern persist with the global chart, USA chart and Great Britain chart. Theatre is also one of the few categories to have campaigns that have gone live. This shows that pledgers have a higher confidence with Kickstarter's Theatre campaigns and are most likely to pledge in this category.
-
-While Louise will have many competitions in Theatre campaigns, she will also be very likely to achieve her funding goals for her play with the global pledgers especially pledgers from Great Britain. 
+While Louise will have many competitions in Theatre campaigns, she will also be very likely to achieve her funding goals for her play with the _**global pledgers**_ especially pledgers from Great Britain.
