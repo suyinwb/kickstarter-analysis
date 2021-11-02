@@ -102,23 +102,25 @@ For [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-l
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Based on [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-launch-date), we can conclude that the best month for Louise to launch her Kickstarter campaign is in the month of May. If she misses the May launch date, she can also consider launching for the month of June or July.
 December is the worst month to launch a campaign and should be avoided.
 
 
 - What can you conclude about the Outcomes based on Goals?
-  Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of _**$5000 and below**_ have a better chance of achieving their target at _**66%**_ and more.
-  However, very large funding goals between _**$40,000 to $44,999**_ is 4th in the chart with a success rate of **49%** after funding goals between _**$5000 to $9999**_ which has the success rate of _**53%**_.
 
-  If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of _**$5000, $10,000, $15,000**_ and _**$45,000**_.
+Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of _**$5000 and below**_ have a better chance of achieving their target at _**66%**_ and more.
+However, very large funding goals between _**$40,000 to $44,999**_ is 4th in the chart with a success rate of **49%** after funding goals between _**$5000 to $9999**_ which has the success rate of _**53%**_.
+
+If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of _**$5000, $10,000, $15,000**_ and _**$45,000**_.
 
 
 - What are some limitations of this dataset?
+
 The dataset only shows the outcomes of all campaigns without taking into consideration the _**quality of the campaigns**_ as listed in [Analysis & Challenges -> Acknowledging Limitations](#7-acknowledging-limitations).
 
 
 - What are some other possible tables and/or graphs that we could create?
-
 
 #### Analysis of Percentage Outcomes Based on Launch Date
 ![Theatres: Percentage Outcomes Based on Launch Date](resources/Pct_Theater_Outcomes_vs_Launch.png)
