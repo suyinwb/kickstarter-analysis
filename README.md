@@ -81,13 +81,15 @@ While the chart above may show that launches in May, June and July have the high
 The above shows that campaigns with the most likely change of reaching their goals are campaigns below $1000; with 71% campaigns reaching their funding goals.
 Second highest campaigns to reach their goals are campaigns between $1000 to $4999; with 66% campaigns reaching their funding goals.
 Third highest campaigns to reach their goals are campaigns between $5000 to $9999; with 53% campaigns reaching their funding goals.
-Fourth highest campaigns to reach their goals are campaigns between $10,000 to $14999 and between $40,000 to $44999; with 48% campaigns reaching their funding goals and 48% campaigns reaching their funding goals, respectively.
+Fourth highest campaigns to reach their goals are campaigns between $10,000 to $14999 and between $40,000 to $44999; with 48% campaigns reaching their funding goals and 49% campaigns reaching their funding goals, respectively.
 
+Funding goals above $50,000 has the highest failed rate at 58% and canceled rate at 23%.
+
+// show the numbers of campaigns vs their percentage, just like how we do for the previous chart.
 
 ### Challenges and Difficulties Encountered
 
 For [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-launch-date), initially it seems like Louise only has the 3 months (May, June, July) out of a year to be able to have a better chance at a successful Kickstarter campaign. However, when we look deeper at the dataset, we will see that while the numbers of successful campaigns are launched during those months, those are also the months with the highest campaign launches. Therefore we need to take into consideration the percentage of successful campaigns vs the total number of campaigns launched in the same month. For this data, please see [Analysis of Percentage Outcomes Based on Launch Date](#analysis-of-percentage-outcomes-based-on-launch-date).
-
 
 
 ## Results
@@ -96,15 +98,20 @@ For [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-l
 Based on [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-launch-date), we can conclude that the best month for Louise to launch her Kickstarter campaign is in the month of May. If she misses the May launch date, she can also consider launching for the month of June or July.
 December is the worst month to launch a campaign and should be avoided.
 
+
 - What can you conclude about the Outcomes based on Goals?
-Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of $5000 and below have a better chance of achieving their target.
+Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of $5000 and below have a better chance of achieving their target at 66% and more.
+However, very large funding goals between $40,000 to $44999 is 4th in the chart with a success rate of 49% after funding goals between $5000 to $9999 which has the success rate of 53%.
+
+If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of $5000, $10,000, $15,000 and $45,000.
 
 
 - What are some limitations of this dataset?
+The dataset only shows the outcomes of all campaigns without taking into consideration the quality of the campaigns as listed in [Analysis & Challenges -> Acknowledging Limitations](#5-acknowledging-limitations).
 
-[Analysis & Challenges -> Acknowledging Limitations](#5-acknowledging-limitations)
 
 - What are some other possible tables and/or graphs that we could create?
+
 
 #### Analysis of Percentage Outcomes Based on Launch Date
 ![Theatres: Percentage Outcomes Based on Launch Date](resources/Pct_Theater_Outcomes_vs_Launch.png)
