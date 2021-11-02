@@ -68,7 +68,7 @@ The "Proper" Conclusion is indicated below on [Results](#results)
 
 ![Theatres: Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
-The above shows that campaign that launches in May, June and July  between the years 2009 to 2017 have the highest rate of successfully achieving their fundraising goals.
+The above shows that _*theatre campaign*_ that launches in May, June and July  between the years 2009 to 2017 have the highest rate of successfully achieving their fundraising goals.
 The month of May has the highest successful campaigns at 111 success out of a total of 166.
 While the months of June has 100 successful campaigns out of a total of 153 and July has 87 successful campaigns out of a total of 138.
 
@@ -80,16 +80,17 @@ While the chart above may show that launches in May, June and July have the high
 
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes cvs Goals](resources/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
 
-The above shows that campaigns with the most likely change of reaching their goals are campaigns below $1000; with 71% campaigns reaching their funding goals.
-Second highest campaigns to reach their goals are campaigns between $1000 to $4999; with 66% campaigns reaching their funding goals.
-Third highest campaigns to reach their goals are campaigns between $5000 to $9999; with 53% campaigns reaching their funding goals.
-Fourth highest campaigns to reach their goals are campaigns between $10,000 to $14999 and between $40,000 to $44999; with 48% campaigns reaching their funding goals and 49% campaigns reaching their funding goals, respectively.
+The above shows that _*play campaigns*_ (a sub category of Theatre) with the most likely change of reaching their goals are campaigns below $1000; with 84%% campaigns reaching their funding goals.
 
-Funding goals above $50,000 has the highest failed rate at 58% and canceled rate at 23%.
+Second highest campaigns to reach their goals are campaigns between $1000 to $4999; with 76% campaigns reaching their funding goals.
 
-// show the numbers of campaigns vs their percentage, just like how we do for the previous chart.
+Third highest campaigns to reach their goals are campaigns between $35,000 to $39,999 and campaigns between $40,000 to $44,999; with both having 67% campaigns reaching their funding goals.
+
+Funding goals between $45,000 to $49,999 has the highest failed rate at 0% campaigns reaching their funding goals; followed by goals above $50,000 at 13% campaigns reaching their funding goals. The third funding goals most likely to fail is goals between $25,000 to $29,999 at 20% campaigns reaching their funding goals.
+
+While the chart above may show that campaigns with funding goals below $5000 have the highest percentage of being successfully funded, campaigns goals between $35,000 to $44,999 only have a total of 9 campaigns with 6 successful thus giving it a success rate of 67%. This dataset is too small to ensure that Louise's campaign will also have 67% chance of reaching her funding goal if she was to launch a similar play campaign with funding goals between $35,000 to $44,999.
 
 ## Challenges
 
@@ -127,3 +128,14 @@ When we include this into our consideration, it goes to show that Theatre campai
 _**April, May, June, July, September**_ and _**November**_ have _**60%**_ & above success rates.
 
 Therefore _**April, September**_ and _**November**_ can be taken into consideration as secondary launch months if Louise had missed the window between May to July.
+
+
+
+#### Analysis of All Category Outcomes Outcomes Based on Goals
+The above shows that campaigns with the most likely change of reaching their goals are campaigns below $1000; with 76% campaigns reaching their funding goals.
+
+Second highest campaigns to reach their goals are campaigns between $1000 to $4999; with 66% campaigns reaching their funding goals.
+Third highest campaigns to reach their goals are campaigns between $5000 to $9999; with 53% campaigns reaching their funding goals.
+Fourth highest campaigns to reach their goals are campaigns between $10,000 to $14999 and between $40,000 to $44999; with 48% campaigns reaching their funding goals and 49% campaigns reaching their funding goals, respectively.
+
+Funding goals above $50,000 has the highest failed rate at 58% and canceled rate at 23%; followed by goals between $45,000 to $49,999 at 52%. The third funding goals most likely to fail is goals between $20,000 to $24,999 at 49%.
