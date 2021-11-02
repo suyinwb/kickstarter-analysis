@@ -49,7 +49,7 @@ Consistent campaign updates, e.g. "25% funded" that will give backers confidence
 Transparency of updates even after hitting goals, e.g. Updates on any change of plan or any potential delays in production
 
 Making the Call:
-The "Proper" Conclusion is indicated below on [Results](##Results)
+The "Proper" Conclusion is indicated below on [Results](##results)
 
 ### Analysis of Outcomes Based on Launch Date
 
