@@ -63,7 +63,12 @@ The "Proper" Conclusion is indicated below on [Results](#results)
 
 ![Theatres: Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
-From the above chart, we can see that for theatres campaigns
+The above shows that campaign that launches in May, June and July  between the years 2009 to 2017 have the highest rate of successfully achieving their fundraising goals.
+The month of May has the highest successful campaigns at 111 success out of a total of 166.
+While the months of June has 100 successful campaigns out of a total of 153 and July has 87 successful campaigns out of a total of 138.
+
+While the chart above may show that launches in May, June and July have the highest number of successful campaigns, the data may be skewed as these months also have the highest number of launches and therefore by sheer volume it only makes sense that these months will have high successful campaigns. Therefore in addition to this chart, we will like to include another table for consideration, please see [Analysis of Percentage Outcomes Based on Launch Date](###analysis-of-percentage-outcomes-based-on-launch-date)
+
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes cvs Launch](resources/Outcomes_vs_Goals.png)
@@ -79,3 +84,6 @@ From the above chart, we can see that for theatres campaigns
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
+#### Analysis of Percentage Outcomes Based on Launch Date
+![Theatres: Percentage Outcomes Based on Launch Date](resources/Pct_Theater_Outcomes_vs_Launch.png)
