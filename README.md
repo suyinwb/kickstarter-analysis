@@ -14,16 +14,16 @@ Louise will like to know how to different campaigns fared in relation to their l
 
 ## Analysis and Challenges
 
-### Decomposing the Ask
+#### 1. Decomposing the Ask
 What are the different campaigns from Louise's point of view?
 The different campaigns can be seen from 2 perspectives, either from the Main / Parent Category and the Sub-Category.
 Louise did not specify which country she will be producing the play in. In the first analysis, she has asked for both data from USA and Great Britain so going by this assumption, I will assume she is interested in the analysis for both countries.
 
-### Identify the Datasource
+#### 2. Identify the Datasource
 As Louise was only fundraising from Kickstarter, our dataset which is directly culled from Kickstarter is a good dataset. However, a considerable time has elapsed between her first request for analysis which has given her a high success rate and present.
 We do not have the data between 2018 to 2021. Especially with the current climate of Covid-19 global pandemic, where social events with big crowds are not permitted, our second analysis using the older dataset will not give Louise an accurate analysis for her to take further actions with Kickstarter today. What we presented below must be considered as informational pre-pandemic snapshot of Kickstarter analysis.
 
-#### 1. Define Strategy & Metrics
+#### 3. Define Strategy & Metrics
 1. Campaign
     1. Main / Parent Category
     1. Sub-Category
@@ -33,21 +33,21 @@ We do not have the data between 2018 to 2021. Especially with the current climat
     1. Great Britain
 
 
-#### 2. Data Retrieval Plan:
+#### 4. Data Retrieval Plan:
 * Use Kickstarter dataset in Excel
 
 
-#### 3. Assemble & Clean the Data:
+#### 5. Assemble & Clean the Data:
 * Excel formatting & formulas
 
 
-#### 4. Analyse for Trends:
+#### 6. Analyse for Trends:
 1. Category & Sub-Category
 1. Goals
 1. Launch Dates
 
 
-#### 5. Acknowledging Limitations:
+#### 7. Acknowledging Limitations:
 1. Dataset is not up-to-date.
 1. Other marketing elements in a campaign:
   * Is this what the target market really wants?
@@ -57,7 +57,7 @@ We do not have the data between 2018 to 2021. Especially with the current climat
   * Consistent campaign updates, e.g. "25% funded" that will give backers confidence
   * Transparency of updates even after hitting goals, e.g. Updates on any change of plan or any potential delays in production
 
-#### 6. Making the Call:
+#### 8. Making the Call:
 The "Proper" Conclusion is indicated below on [Results](#results)
 
 ### Analysis of Outcomes Based on Launch Date
