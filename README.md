@@ -58,7 +58,7 @@ The "Proper" Conclusion is indicated below on ##Results
 From the above chart, we can see that for theatres campaigns
 
 ### Analysis of Outcomes Based on Goals
-![Theatres: Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes cvs Launch](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
