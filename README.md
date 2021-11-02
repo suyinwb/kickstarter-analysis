@@ -23,20 +23,20 @@ As Louise was only fundraising from Kickstarter, our dataset which is directly c
 We do not have the data between 2018 to 2021. Especially with the current climate of Covid-19 global pandemic, where social events with big crowds are not permitted, our second analysis using the older dataset will not give Louise an accurate analysis for her to take further actions with Kickstarter today. What we presented below must be considered as informational pre-pandemic snapshot of Kickstarter analysis.
 
 #### 1. Define Strategy & Metrics
-  1. Campaign
-     1. Main / Parent Category
-     1. Sub-Category
-  1. Countries
-      1. USA
-      1. Great Britain
+        1. Campaign
+           1. Main / Parent Category
+           1. Sub-Category
+        1. Countries
+            1. USA
+            1. Great Britain
 
 
 #### 1. Data Retrieval Plan:
-  * Use Kickstarter dataset in Excel
+        * Use Kickstarter dataset in Excel
 
 
 #### 1. Assemble & Clean the Data:
-  * Excel formatting & formulas
+        * Excel formatting & formulas
 
 
 #### 1. Analyse for Trends:
