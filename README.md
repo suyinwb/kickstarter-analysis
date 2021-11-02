@@ -155,4 +155,4 @@ While Plays campaigns do not have any cancelled campaigns, other categories have
 
 ![Global Parent Category Outcome](resources/Global_Parent_Category_Outcomes.png)
 ![USA Parent Category Outcome](resources/USA_Parent_Category_Outcomes.png)
-![Great Britain Parent Category Outcome](resources/GB_Parent_Category_Outcomes.png)
+![Great Britain Parent Category Outcome](resources/GB_Parent_Category_Outcome.png)
