@@ -82,7 +82,7 @@ While the chart above may show that launches in May, June and July have the high
 ### Analysis of Outcomes Based on Goals
 ![Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
 
-The above shows that _**play campaigns**_ (a sub category of Theatre) with the most likely change of reaching their goals are campaigns _**below $1000**_; with _**84% campaigns reaching their funding goals**_.
+The above shows that _**play campaigns**_ (a sub category of Theatre) with the most likely chance of reaching their goals are campaigns _**below $1000**_; with _**84% campaigns reaching their funding goals**_.
 
 Second highest campaigns to reach their goals are campaigns between _**$1000 to $4999**_; with _**76% campaigns reaching their funding goals**_.
 
@@ -103,8 +103,9 @@ For [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-l
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Based on [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-launch-date), we can conclude that the best month for Louise to launch her Kickstarter campaign is in the month of May. If she misses the May launch date, she can also consider launching for the month of June or July.
-December is the worst month to launch a campaign and should be avoided.
+1. Based on [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-launch-date), we can conclude that the best month for Louise to launch her Kickstarter campaign is in the month of May. If she misses the May launch date, she can also consider launching for the month of June or July.
+
+1. December is the worst month to launch a campaign and should be avoided.
 
 
 - What can you conclude about the Outcomes based on Goals?
