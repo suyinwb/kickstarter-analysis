@@ -67,23 +67,49 @@ The above shows that campaign that launches in May, June and July  between the y
 The month of May has the highest successful campaigns at 111 success out of a total of 166.
 While the months of June has 100 successful campaigns out of a total of 153 and July has 87 successful campaigns out of a total of 138.
 
+The month of December has the lowest successful campaigns with only 37 out of a total of 75.
+
+If we look at the trend lines for both successful & failed campaigns, we can see that that the trends lines are quite similar with the exception of June and December.  
+
 While the chart above may show that launches in May, June and July have the highest number of successful campaigns, the data may be skewed as these months also have the highest number of launches and therefore by sheer volume it only makes sense that these months will have high successful campaigns. Therefore in addition to this chart, we will like to include another table for consideration, please see [Analysis of Percentage Outcomes Based on Launch Date](#analysis-of-percentage-outcomes-based-on-launch-date)
 
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes cvs Launch](resources/Outcomes_vs_Goals.png)
+![Outcomes cvs Goals](resources/Outcomes_vs_Goals.png)
+
+The above shows that campaigns with the most likely change of reaching their goals are campaigns below $1000; with 71% campaigns reaching their funding goals.
+Second highest campaigns to reach their goals are campaigns between $1000 to $4999; with 66% campaigns reaching their funding goals.
+Third highest campaigns to reach their goals are campaigns between $5000 to $9999; with 53% campaigns reaching their funding goals.
+Fourth highest campaigns to reach their goals are campaigns between $10,000 to $14999 and between $40,000 to $44999; with 48% campaigns reaching their funding goals and 48% campaigns reaching their funding goals, respectively.
+
 
 ### Challenges and Difficulties Encountered
+
+For [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-launch-date), initially it seems like Louise only has the 3 months (May, June, July) out of a year to be able to have a better chance at a successful Kickstarter campaign. However, when we look deeper at the dataset, we will see that while the numbers of successful campaigns are launched during those months, those are also the months with the highest campaign launches. Therefore we need to take into consideration the percentage of successful campaigns vs the total number of campaigns launched in the same month. For this data, please see [Analysis of Percentage Outcomes Based on Launch Date](#analysis-of-percentage-outcomes-based-on-launch-date).
+
+
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+Based on [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-launch-date), we can conclude that the best month for Louise to launch her Kickstarter campaign is in the month of May. If she misses the May launch date, she can also consider launching for the month of June or July.
+December is the worst month to launch a campaign and should be avoided.
 
 - What can you conclude about the Outcomes based on Goals?
+Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of $5000 and below have a better chance of achieving their target.
+
 
 - What are some limitations of this dataset?
+
+[Analysis & Challenges -> Acknowledging Limitations](#5-acknowledging-limitations)
 
 - What are some other possible tables and/or graphs that we could create?
 
 #### Analysis of Percentage Outcomes Based on Launch Date
 ![Theatres: Percentage Outcomes Based on Launch Date](resources/Pct_Theater_Outcomes_vs_Launch.png)
+
+With this table, we can see that even though May is still the best month to launch a campaign at 66.86% success rate, the other months have campaign success rates between 49% to 63%.
+When we include this into our consideration, it goes to show that Theatre campaigns launches for the months of:
+April, May, June, July, September and November have 60% & above success rates.
+
+Therefore April, September and November can be taken into consideration as secondary launch months if Louise had missed the window between May to July.
