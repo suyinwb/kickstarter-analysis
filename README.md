@@ -107,7 +107,7 @@ December is the worst month to launch a campaign and should be avoided.
 
 - What can you conclude about the Outcomes based on Goals?
 Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of $5000 and below have a better chance of achieving their target at **66%** and more.
-However, very large funding goals between $40,000 to $44999 is 4th in the chart with a success rate of **49%**after funding goals between $5000 to $9999 which has the success rate of 53%.
+However, very large funding goals between $40,000 to $44999 is 4th in the chart with a success rate of **49%** after funding goals between $5000 to $9999 which has the success rate of 53%.
 
 If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of **$5000**, **$10,000**, **$15,000** and **$45,000**.
 
