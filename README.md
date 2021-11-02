@@ -10,7 +10,7 @@ From our previous partnership, she now wants to know how different campaigns far
 The same dataset from her first analysis which is the dataset from 2009 to 2017, will be used for this second analysis.
 
 ### Purpose
-Louise will like to know how to different campaigns fared in relation to their launch dates and their funding goals.
+Louise will like to know how different campaigns fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
