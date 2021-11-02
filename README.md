@@ -82,7 +82,7 @@ While the chart above may show that launches in May, June and July have the high
 ### Analysis of Outcomes Based on Goals
 ![Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
 
-The above shows that _**play campaigns**_ (a sub category of Theatre) with the most likely change of reaching their goals are campaigns below $1000; with 84%% campaigns reaching their funding goals.
+The above shows that _**play campaigns**_ (a sub category of Theatre) with the most likely change of reaching their goals are campaigns _**below $1000**_; with _**84% campaigns reaching their funding goals**_.
 
 Second highest campaigns to reach their goals are campaigns between _**$1000 to $4999**_; with _**76% campaigns reaching their funding goals**_.
 
@@ -107,10 +107,10 @@ December is the worst month to launch a campaign and should be avoided.
 
 
 - What can you conclude about the Outcomes based on Goals?
-Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of _**$5000 and below**_ have a better chance of achieving their target at _**66%**_ and more.
-However, very large funding goals between _**$40,000 to $44,999**_ is 4th in the chart with a success rate of **49%** after funding goals between _**$5000 to $9999**_ which has the success rate of _**53%**_.
+  Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of _**$5000 and below**_ have a better chance of achieving their target at _**66%**_ and more.
+  However, very large funding goals between _**$40,000 to $44,999**_ is 4th in the chart with a success rate of **49%** after funding goals between _**$5000 to $9999**_ which has the success rate of _**53%**_.
 
-If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of _**$5000, $10,000, $15,000**_ and _**$45,000**_.
+  If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of _**$5000, $10,000, $15,000**_ and _**$45,000**_.
 
 
 - What are some limitations of this dataset?
