@@ -67,7 +67,7 @@ The above shows that campaign that launches in May, June and July  between the y
 The month of May has the highest successful campaigns at 111 success out of a total of 166.
 While the months of June has 100 successful campaigns out of a total of 153 and July has 87 successful campaigns out of a total of 138.
 
-While the chart above may show that launches in May, June and July have the highest number of successful campaigns, the data may be skewed as these months also have the highest number of launches and therefore by sheer volume it only makes sense that these months will have high successful campaigns. Therefore in addition to this chart, we will like to include another table for consideration, please see [Analysis of Percentage Outcomes Based on Launch Date](###analysis-of-percentage-outcomes-based-on-launch-date)
+While the chart above may show that launches in May, June and July have the highest number of successful campaigns, the data may be skewed as these months also have the highest number of launches and therefore by sheer volume it only makes sense that these months will have high successful campaigns. Therefore in addition to this chart, we will like to include another table for consideration, please see [Analysis of Percentage Outcomes Based on Launch Date](#analysis-of-percentage-outcomes-based-on-launch-date)
 
 
 ### Analysis of Outcomes Based on Goals
