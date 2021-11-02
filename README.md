@@ -90,6 +90,8 @@ Third highest campaigns to reach their goals are campaigns between _**$35,000 to
 
 Funding goals between *$45,000 to $49,999 has the highest failed* rate at *0% campaigns reaching their funding goals*; followed by goals *above $50,000* at *13% campaigns reaching their funding goals*. The third funding goals most likely to fail is goals between *$25,000 to $29,999* at *20% campaigns reaching their funding goals*.
 
+There are no cancelled plays campaigns.
+
 While the chart above may show that campaigns with funding goals below $5000 have the highest percentage of being successfully funded, campaigns goals between $35,000 to $44,999 only have a total of 9 campaigns with 6 successful thus giving it a success rate of 67%. This dataset is too small to ensure that Louise's campaign will also have 67% chance of reaching her funding goal if she was to launch a similar play campaign with funding goals between $35,000 to $44,999.
 
 ## Challenges
@@ -101,27 +103,28 @@ For [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-l
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1. Based on [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-launch-date), we can conclude that the best month for Louise to launch her Kickstarter campaign is in the month of May. If she misses the May launch date, she can also consider launching for the month of June or July.
+- Based on [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-launch-date), we can conclude that the best month for Louise to launch her Kickstarter campaign is in the month of May. If she misses the May launch date, she can also consider launching for the month of June or July.
 
-1. December is the worst month to launch a campaign and should be avoided.
-
-
-- What can you conclude about the Outcomes based on Goals?
-
-Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of _**$5000 and below**_ have a better chance of achieving their target at _**66%**_ and more.
-However, very large funding goals between _**$40,000 to $44,999**_ is 4th in the chart with a success rate of **49%** after funding goals between _**$5000 to $9999**_ which has the success rate of _**53%**_.
-
-If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of _**$5000, $10,000, $15,000**_ and _**$45,000**_.
+- December is the worst month to launch a campaign and should be avoided.
 
 
-- What are some limitations of this dataset?
+1. What can you conclude about the Outcomes based on Goals?
+
+Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals between _**$10,000 to $14,999**_ have the highest chance of achieving their goals at _**84%**_.
+
+The next tier of funding goals of _**$5000 and below**_ have a better chance of achieving their target at _**73%**_ and more.
+
+If Louise has large funding goals; it is better if she breaks them down into a few campaigns with funding goals of _**$1000**_, _**$5000**_ or between _**$10,000 to $15,000**_.
+
+
+1. What are some limitations of this dataset?
 
 The dataset only shows the outcomes of all campaigns without taking into consideration the _**quality of the campaigns**_ as listed in [Analysis & Challenges -> Acknowledging Limitations](#7-acknowledging-limitations).
 
 
-- What are some other possible tables and/or graphs that we could create?
+1. What are some other possible tables and/or graphs that we could create?
 
 #### Analysis of Percentage Outcomes Based on Launch Date
 ![Theatres: Percentage Outcomes Based on Launch Date](resources/Pct_Theater_Outcomes_vs_Launch.png)
@@ -132,16 +135,20 @@ _**April, May, June, July, September**_ and _**November**_ have _**60%**_ & abov
 
 Therefore _**April, September**_ and _**November**_ can be taken into consideration as secondary launch months if Louise had missed the window between May to July.
 
-
 #### Analysis of All Category Outcomes Based on Goals
 
 ![All Category Outcomes Outcomes Based on Goals](resources/All_Cat_Outcomes_vs_Goals.png)
 
-We want to examine the pledger's behaviour in Kickstarter funding for all categories. The chart above shows all categories outcome based on goals.
+We want to examine outcomes based on goals in Kickstarter funding for all categories. The chart above shows all categories outcome based on goals.
+We start by examining the trend lines for both successful & failed campaigns and it has the same trends as sub-category, Plays. Therefore we can determine that across all categories, campaigns with lower funding goals and very high funding goals have a higher success rate.
 
-With this chart, we can see that campaigns with the most likely change of reaching their goals are campaigns below $1000; with 76% campaigns reaching their funding goals.
+With this chart, we can see that campaigns with the most likely chance of reaching their goals are campaigns below $1000; with 76% campaigns reaching their funding goals.
 Second highest campaigns to reach their goals are campaigns between $1000 to $4999; with 66% campaigns reaching their funding goals.
 Third highest campaigns to reach their goals are campaigns between $5000 to $9999; with 53% campaigns reaching their funding goals.
 Fourth highest campaigns to reach their goals are campaigns between $10,000 to $14999 and between $40,000 to $44999; with 48% campaigns reaching their funding goals and 49% campaigns reaching their funding goals, respectively.
 
-Funding goals above $50,000 has the highest failed rate at 58% and canceled rate at 23%; followed by goals between $45,000 to $49,999 at 52%. The third funding goals most likely to fail is goals between $20,000 to $24,999 at 49%.
+Funding goals above $50,000 has the highest failed rate at 58% and cancelled rate at 23%; followed by goals between $45,000 to $49,999 at 52%. The third funding goals most likely to fail is goals between $20,000 to $24,999 at 49%.
+
+While Plays campaigns do not have any cancelled campaigns, other categories have in general a less than 20% cancelled rate. This means that playwright who launches their Kickstarter campaigns are serious about their projects.
+
+#### Analysis of All Category Outcomes Based on Goals
