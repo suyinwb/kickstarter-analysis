@@ -62,6 +62,7 @@ We do not have the data between 2018 to 2021. Especially with the current climat
 #### 8. Making the Call:
 The "Proper" Conclusion is indicated below on [Results](#results)
 
+## Analysis
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -89,6 +90,8 @@ Fourth highest campaigns to reach their goals are campaigns between $10,000 to $
 Funding goals above $50,000 has the highest failed rate at 58% and canceled rate at 23%.
 
 // show the numbers of campaigns vs their percentage, just like how we do for the previous chart.
+
+## Challenges
 
 ### Challenges and Difficulties Encountered
 
