@@ -37,16 +37,17 @@ Category & Sub-Category
 Goals
 Launch Dates
 
-Acknowledging Limitations:
-1. Dataset is not up-to-date.
 
-2. Other marketing elements in a campaign:
-Is this what the target market really wants?
-Quality of marketing copy writing & campaign video
-Quality of backers incentive rewards and the different tiers
-How is the campaign promoted outside of Kickstarter, e.g. social media
-Consistent campaign updates, e.g. "25% funded" that will give backers confidence
-Transparency of updates even after hitting goals, e.g. Updates on any change of plan or any potential delays in production
+Acknowledging Limitations:
+* 1. Dataset is not up-to-date.
+
+* 2. Other marketing elements in a campaign:
+  * 2.1 Is this what the target market really wants?
+  Quality of marketing copy writing & campaign video
+  Quality of backers incentive rewards and the different tiers
+  How is the campaign promoted outside of Kickstarter, e.g. social media
+  Consistent campaign updates, e.g. "25% funded" that will give backers confidence
+  Transparency of updates even after hitting goals, e.g. Updates on any change of plan or any potential delays in production
 
 Making the Call:
 The "Proper" Conclusion is indicated below on [Results](#results)
