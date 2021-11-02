@@ -17,7 +17,7 @@ Louise will like to know how to different campaigns fared in relation to their l
 #### 1. Decomposing the Ask
 What are the different campaigns from Louise's point of view?
 The different campaigns can be seen from 2 perspectives, either from the Main / Parent Category and the Sub-Category.
-Louise did not specify which country she will be producing the play in. In the first analysis, she has asked for both data from USA and Great Britain so going by this assumption, I will assume she is interested in the analysis for both countries.
+Louise did not specify which country she will be producing the play in. In the first analysis, she has asked for both data from USA and Great Britain so going by this assumption, we will assume she might be interested in the analysis for both countries.
 
 #### 2. Identify the Datasource
 As Louise was only fundraising from Kickstarter, our dataset which is directly culled from Kickstarter is a good dataset. However, a considerable time has elapsed between her first request for analysis which has given her a high success rate and present.
