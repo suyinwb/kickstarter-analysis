@@ -32,15 +32,15 @@ We do not have the data between 2018 to 2021. Especially with the current climat
     1. Great Britain
 
 
-#### 1. Data Retrieval Plan:
+#### 2. Data Retrieval Plan:
 * Use Kickstarter dataset in Excel
 
 
-#### 1. Assemble & Clean the Data:
+#### 3. Assemble & Clean the Data:
 * Excel formatting & formulas
 
 
-#### 1. Analyse for Trends:
+#### 4. Analyse for Trends:
 1. Category & Sub-Category
 1. Goals
 1. Launch Dates
