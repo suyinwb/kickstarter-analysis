@@ -22,39 +22,38 @@ Identify the Datasource:
 As Louise was only fundraising from Kickstarter, our dataset which is directly culled from Kickstarter is a good dataset. However, a considerable time has elapsed between her first request for analysis which has given her a high success rate and present.
 We do not have the data between 2018 to 2021. Especially with the current climate of Covid-19 global pandemic, where social events with big crowds are not permitted, our second analysis using the older dataset will not give Louise an accurate analysis for her to take further actions with Kickstarter today. What we presented below must be considered as informational pre-pandemic snapshot of Kickstarter analysis.
 
-1. Define Strategy & Metrics:
-  1. Campaigns:
+####1. Define Strategy & Metrics
+  1. Campaign
      1. Main / Parent Category
      1. Sub-Category
-
-  1. Countries:
+  1. Countries
       1. USA
       1. Great Britain
 
 
-1. Data Retrieval Plan:
-  * Use Kickstarter dataset in Excel.
+####1. Data Retrieval Plan:
+  * Use Kickstarter dataset in Excel
 
 
-1. Assemble & Clean the Data:
-  * Excel formatting & formulas.
+####1. Assemble & Clean the Data:
+  * Excel formatting & formulas
 
 
-1. Analyse for Trends:
+####1. Analyse for Trends:
   1. Category & Sub-Category
   1. Goals
   1. Launch Dates
 
 
-1. Acknowledging Limitations:
+####1. Acknowledging Limitations:
 1. Dataset is not up-to-date.
 1. Other marketing elements in a campaign:
-  1. Is this what the target market really wants?
-  1. Quality of marketing copy writing & campaign video
-  1. Quality of backers incentive rewards and the different tiers
-  1. How is the campaign promoted outside of Kickstarter, e.g. social media
-  1. Consistent campaign updates, e.g. "25% funded" that will give backers confidence
-  1. Transparency of updates even after hitting goals, e.g. Updates on any change of plan or any potential delays in production
+  * Is this what the target market really wants?
+  * Quality of marketing copy writing & campaign video
+  * Quality of backers incentive rewards and the different tiers
+  * How is the campaign promoted outside of Kickstarter, e.g. social media
+  * Consistent campaign updates, e.g. "25% funded" that will give backers confidence
+  * Transparency of updates even after hitting goals, e.g. Updates on any change of plan or any potential delays in production
 
 Making the Call:
 The "Proper" Conclusion is indicated below on [Results](#results)
