@@ -106,14 +106,14 @@ December is the worst month to launch a campaign and should be avoided.
 
 
 - What can you conclude about the Outcomes based on Goals?
-Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of $5000 and below have a better chance of achieving their target at **66%** and more.
-However, very large funding goals between $40,000 to $44999 is 4th in the chart with a success rate of **49%** after funding goals between $5000 to $9999 which has the success rate of 53%.
+Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of _**$5000 and below**_ have a better chance of achieving their target at _**66%**_ and more.
+However, very large funding goals between _**$40,000 to $44,999**_ is 4th in the chart with a success rate of **49%** after funding goals between _**$5000 to $9999**_ which has the success rate of _**53%**_.
 
-If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of **$5000**, **$10,000**, **$15,000** and **$45,000**.
+If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of _**$5000, $10,000, $15,000**_ and _**$45,000**_.
 
 
 - What are some limitations of this dataset?
-The dataset only shows the outcomes of all campaigns without taking into consideration the **quality** of the campaigns as listed in [Analysis & Challenges -> Acknowledging Limitations](#7-acknowledging-limitations).
+The dataset only shows the outcomes of all campaigns without taking into consideration the _**quality of the campaigns**_ as listed in [Analysis & Challenges -> Acknowledging Limitations](#7-acknowledging-limitations).
 
 
 - What are some other possible tables and/or graphs that we could create?
@@ -122,8 +122,8 @@ The dataset only shows the outcomes of all campaigns without taking into conside
 #### Analysis of Percentage Outcomes Based on Launch Date
 ![Theatres: Percentage Outcomes Based on Launch Date](resources/Pct_Theater_Outcomes_vs_Launch.png)
 
-With this table, we can see that even though **May** is still the best month to launch a campaign at **66.86%** success rate, the other months have campaign success rates between 49% to 63%.
+With this table, we can see that even though _**May**_ is still the best month to launch a campaign at _**66.86%**_ success rate, the other months have campaign success rates between 49% to 63%.
 When we include this into our consideration, it goes to show that Theatre campaigns launches for the months of:
-_**April, May, June, July, September**_ and _**November**_ have **60%** & above success rates.
+_**April, May, June, July, September**_ and _**November**_ have _**60%**_ & above success rates.
 
 Therefore _**April, September**_ and _**November**_ can be taken into consideration as secondary launch months if Louise had missed the window between May to July.
