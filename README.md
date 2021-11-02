@@ -6,7 +6,7 @@ Her budget is a little over $10,000 (which includes sets, costumes, rehearsal sp
 Due to our initial analysis, Louise’s play Fever came close to its fundraising goal in a short amount of time.
 
 ## Overview of Project
-Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
+From our previous partnership, now she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
 The same dataset from her first analysis which is the dataset from 2009 to 2017, will be used for this second analysis.
 
 ### Purpose
@@ -53,9 +53,12 @@ The "Proper" Conclusion is indicated below on ##Results
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
+![Theatres: Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
+
+From the above chart, we can see that for theatres campaigns
 
 ### Analysis of Outcomes Based on Goals
+![Theatres: Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Challenges and Difficulties Encountered
 
