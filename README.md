@@ -113,7 +113,7 @@ If Louise has funding goals above $50,000; it is better if she breaks them down 
 
 
 - What are some limitations of this dataset?
-The dataset only shows the outcomes of all campaigns without taking into consideration the quality of the campaigns as listed in [Analysis & Challenges -> Acknowledging Limitations](#5-acknowledging-limitations).
+The dataset only shows the outcomes of all campaigns without taking into consideration the quality of the campaigns as listed in [Analysis & Challenges -> Acknowledging Limitations](#7-acknowledging-limitations).
 
 
 - What are some other possible tables and/or graphs that we could create?
