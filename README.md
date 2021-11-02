@@ -24,12 +24,12 @@ We do not have the data between 2018 to 2021. Especially with the current climat
 
 Define Strategy & Metrics:
 1. Campaigns:
-  1. Main / Parent Category
-  1. Sub-Category
+   1. Main / Parent Category
+   1. Sub-Category
 
 1. Countries:
-  1. USA
-  1. Great Britain
+    1. USA
+    1. Great Britain
 
 Data Retrieval Plan:
 * Use Kickstarter dataset in Excel.
