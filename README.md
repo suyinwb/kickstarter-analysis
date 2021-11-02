@@ -106,10 +106,10 @@ December is the worst month to launch a campaign and should be avoided.
 
 
 - What can you conclude about the Outcomes based on Goals?
-Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of $5000 and below have a better chance of achieving their target at 66% and more.
-However, very large funding goals between $40,000 to $44999 is 4th in the chart with a success rate of 49% after funding goals between $5000 to $9999 which has the success rate of 53%.
+Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals of $5000 and below have a better chance of achieving their target at **66%** and more.
+However, very large funding goals between $40,000 to $44999 is 4th in the chart with a success rate of **49%**after funding goals between $5000 to $9999 which has the success rate of 53%.
 
-If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of $5000, $10,000, $15,000 and $45,000.
+If Louise has funding goals above $50,000; it is better if she breaks them down into a few smaller funding goals of **$5000**, **$10,000**, **$15,000** and **$45,000**.
 
 
 - What are some limitations of this dataset?
@@ -122,8 +122,8 @@ The dataset only shows the outcomes of all campaigns without taking into conside
 #### Analysis of Percentage Outcomes Based on Launch Date
 ![Theatres: Percentage Outcomes Based on Launch Date](resources/Pct_Theater_Outcomes_vs_Launch.png)
 
-With this table, we can see that even though May is still the best month to launch a campaign at 66.86% success rate, the other months have campaign success rates between 49% to 63%.
+With this table, we can see that even though **May** is still the best month to launch a campaign at **66.86%** success rate, the other months have campaign success rates between 49% to 63%.
 When we include this into our consideration, it goes to show that Theatre campaigns launches for the months of:
-April, May, June, July, September and November have 60% & above success rates.
+**April, May, June, July, September** and **November** have **60%** & above success rates.
 
-Therefore April, September and November can be taken into consideration as secondary launch months if Louise had missed the window between May to July.
+Therefore **April, September** and **November** can be taken into consideration as secondary launch months if Louise had missed the window between May to July.
