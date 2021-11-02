@@ -110,7 +110,7 @@ For [Analysis of Outcomes Based on Launch Date](#analysis-of-outcomes-based-on-l
 - December is the worst month to launch a campaign and should be avoided.
 
 
-1. What can you conclude about the Outcomes based on Goals?
+2. What can you conclude about the Outcomes based on Goals?
 
 Based on [Analysis of Outcomes Based on Goals](#analysis-of-outcomes-based-on-goals),we can see that funding goals between _**$10,000 to $14,999**_ have the highest chance of achieving their goals at _**84%**_.
 
@@ -119,12 +119,12 @@ The next tier of funding goals of _**$5000 and below**_ have a better chance of 
 If Louise has large funding goals; it is better if she breaks them down into a few campaigns with funding goals of _**$1000**_, _**$5000**_ or between _**$10,000 to $15,000**_.
 
 
-1. What are some limitations of this dataset?
+3. What are some limitations of this dataset?
 
 The dataset only shows the outcomes of all campaigns without taking into consideration the _**quality of the campaigns**_ as listed in [Analysis & Challenges -> Acknowledging Limitations](#7-acknowledging-limitations).
 
 
-1. What are some other possible tables and/or graphs that we could create?
+4. What are some other possible tables and/or graphs that we could create?
 
 #### Analysis of Percentage Outcomes Based on Launch Date
 ![Theatres: Percentage Outcomes Based on Launch Date](resources/Pct_Theater_Outcomes_vs_Launch.png)
@@ -149,6 +149,10 @@ Fourth highest campaigns to reach their goals are campaigns between $10,000 to $
 
 Funding goals above $50,000 has the highest failed rate at 58% and cancelled rate at 23%; followed by goals between $45,000 to $49,999 at 52%. The third funding goals most likely to fail is goals between $20,000 to $24,999 at 49%.
 
-While Plays campaigns do not have any cancelled campaigns, other categories have in general a less than 20% cancelled rate. This means that playwright who launches their Kickstarter campaigns are serious about their projects.
+While Plays campaigns do not have any cancelled campaigns, other categories have in general a less than 20% cancelled rate. This means that _**playwright who launches their Kickstarter campaigns are serious about their projects**_.
 
 #### Analysis of All Category Outcomes Based on Goals
+
+![Global Parent Category Outcome](resources/Global_Parent_Category_Outcomes.png)
+![USA Parent Category Outcome](resources/USA_Parent_Category_Outcomes.png)
+![Great Britain Parent Category Outcome](resources/GB_Parent_Category_Outcomes.png)
